@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+
+https://www.kaggle.com/baiazid/pima-indians-diabetes-na-ve-bayes
 Created on Mon Jan 27 12:46:25 2020
 
 @author: vikash
